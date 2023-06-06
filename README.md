@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @trayanes
-
+- 👋 Hi, I’m Trayan!
+Wanna code?
