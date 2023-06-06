@@ -1,2 +1,2 @@
 - 👋 Hi, 
-Wanna code?
+wanna code?
