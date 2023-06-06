@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Trayan!
+- 👋 Hi, 
 Wanna code?
